@@ -1,2 +1,3 @@
 # faiz_demo
-This is my first git repository
+This is my first Git Repository
+Author - Faiz
